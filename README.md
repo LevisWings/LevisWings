@@ -1,7 +1,7 @@
 ### Hola, soy Ale - alias "Levi's Wings" 👋
 
 - :desktop_computer: Ethical Hacker
-- :scroll: "Cada vez que "paseo" por Internet, siento que no se nada"
+- :scroll: "Cada vez que navego por Internet, siento que no se nada"
 - :keyboard: Jugador de TryHackMe y HackTheBox
 
 ### Lenguajes:
