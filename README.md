@@ -16,7 +16,7 @@
 <p align="center">
 
 <a href="https://github.com/LevisWings/LevisWings">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leviswings&show_icons=true&theme=radical&hide=contribs" alt="leviswings's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leviswings&show_icons=true&theme=radical&hide=prs" alt="leviswings's GitHub Stats" />
 </a>
 
 <a href="https://github.com/LevisWings/LevisWings">
